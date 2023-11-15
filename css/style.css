@@ -1,0 +1,232 @@
+#item1:hover{
+    color: black;
+    text-decoration: underline;
+
+}
+#item2:hover{
+    color: black;
+    text-decoration: underline;
+
+}
+#item3:hover{
+    color: black;
+    text-decoration: underline;
+
+}
+
+#item4:hover{
+    color: black;
+    text-decoration: underline;
+
+}
+
+#item1{
+    font-family: Futura;
+    font-size: 20px;
+    display:inline;
+    color: rgba(115, 69, 38, 1);
+    margin-left: 50px;
+    text-decoration: none;
+}
+
+#item2{
+    font-family: Futura;
+    font-size: 20px;
+    display:inline;
+    color: rgba(115, 69, 38, 1);
+    margin-left: 50px;
+    text-decoration: none;
+}
+
+
+#item3{
+    font-family: Futura;
+    font-size: 20px;
+    display:inline;
+    color: rgba(115, 69, 38, 1);
+    margin-left: 50px;
+    text-decoration: none;
+}
+
+#item4{
+    font-family: Futura;
+    font-size: 20px;
+    display:inline;
+    color: rgba(115, 69, 38, 1);
+    margin-left: 220px;
+    text-decoration: none;
+}
+
+#titre{
+    font-family: phosphate;
+    font-size: 50px;
+    display:inline;
+    color: rgba(115, 69, 38, 1);
+    margin-left: 100px;
+    text-decoration: none;
+}
+}
+
+ #grostitre{
+    
+   
+ }
+
+
+ #lesoeuvres{
+    height:50px;
+    border:1px solid rgba(158, 128, 108, 0.28); 
+    background-color: rgba(158, 128, 108, 0.28);
+    color: #734526;
+    font-family: Futura;
+    font-size: 150%;
+    position: bottom;
+    text-align: center;
+    margin-top: 20px;
+    padding-top: 10px;
+ }
+
+
+ .image2{
+    margin-top: 30px;
+    margin-left: 30px;
+    text-align:center;
+    
+ }
+
+.image4et5{
+    text-align:center;
+}
+
+.image6et7{
+    text-align:center;
+}
+
+.image8{
+    text-align:center;
+}
+
+.image9{
+    text-align:center;
+}
+
+.image10{
+    text-align:center;
+}
+
+ #monhistoire{
+    height:50px;
+    border:1px solid rgba(158, 128, 108, 0.28); 
+    background-color: rgba(158, 128, 108, 0.28);
+    color: #734526;
+    font-family: Futura;
+    font-size: 150%;
+    position: bottom;
+    text-align: center;
+    margin-top: 20px;
+    padding-top: 10px;
+ }
+ 
+
+p{
+    text-align : center;
+    font-family: Futura;
+    font-size: 300%;
+    color: rgba(115, 69, 38, 1);
+    display: flex;
+    width: auto; 
+    
+}
+
+
+.image11{
+    margin-top: 20px;
+    margin-left: 30px;
+    
+ }
+
+
+.grostitrejeu{
+    height:50px;
+    border:1px solid rgba(158, 128, 108, 0.28); 
+    background-color: rgba(158, 128, 108, 0.28);
+    color: #734526;
+    font-family: Futura;
+    font-size: 150%;
+    position: bottom;
+    text-align: center;
+    margin-top: 20px;
+    padding-top: 10px;
+
+}
+
+a{
+    text-align: center;
+}
+
+.blocjeu{
+    width:700px;  
+    margin-top: 30px; 
+    margin-left: 360px;
+    position: ;
+    height:250px;
+    border-radius: 30px;
+    font-size:100%; 
+    border:3px solid rgba(158, 128, 108, 0.28); 
+    background-color: rgba(158, 128, 108, 0.28);
+    text-align: center;
+}
+
+#textejeu{
+    text-align : center;
+    font-family: Futura;
+    color: rgba(115, 69, 38, 1);
+    font-size: 25px;
+}
+
+input{
+    font-family: Futura;
+    color: rgba(158, 128, 108, 1);
+    font-size: 120%;
+    margin-top: 40px;
+    margin-left: 10px;
+    border :0px;
+    background-color: white;
+    width: 500px;
+    border-radius: 30px;
+
+    
+}
+
+
+button{
+    font-family: Futura;
+    color: white;
+    font-size: 120%;
+    background-color: rgba(158, 128, 108, 1);
+    border: rgba(158, 128, 108);
+    border-radius: 20px;
+    margin-top: 20px;
+    cursor: pointer;
+}
+
+.grostitrecontact{
+    margin-top: 30px;
+    color: #734526;
+    font-family: Futura;
+    font-size: 150%;
+    position: bottom;
+    text-align: center;
+
+
+}
+
+.grostitreapropos{
+    margin-top: 50px;
+    color: #734526;
+    font-family: Futura;
+    font-size: 150%;
+    position: bottom;
+    text-align: center;
+}
+
