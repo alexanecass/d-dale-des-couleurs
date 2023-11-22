@@ -1,3 +1,14 @@
+
+
+
+
+.photofond{
+    width: 100%;
+    text-align: center;
+}
+
+
+
 #item1:hover{
     color: black;
     text-decoration: underline;
@@ -65,15 +76,12 @@
     margin-left: 100px;
     text-decoration: none;
 }
-}
-
- #grostitre{
-    
-   
- }
 
 
- #lesoeuvres{
+ 
+
+
+h1{
     height:50px;
     border:1px solid rgba(158, 128, 108, 0.28); 
     background-color: rgba(158, 128, 108, 0.28);
@@ -88,33 +96,39 @@
 
 
  .image2{
+    width: 35%;
     margin-top: 30px;
-    margin-left: 30px;
-    text-align:center;
+    margin-left: 450px;
+    
     
  }
 
 .image4et5{
-    text-align:center;
+    margin-left: 160px;
+    width: 79%;
 }
 
 .image6et7{
-    text-align:center;
+    margin-left: 340px;
+    width: 50%;
 }
 
 .image8{
-    text-align:center;
+    margin-left: 340px;
+    width: 50%;
 }
 
 .image9{
-    text-align:center;
+    margin-left: 340px;
+    width: 50%;
 }
 
 .image10{
-    text-align:center;
+     margin-left: 340px;
+    width: 50%;
 }
 
- #monhistoire{
+ h1{
     height:50px;
     border:1px solid rgba(158, 128, 108, 0.28); 
     background-color: rgba(158, 128, 108, 0.28);
@@ -142,6 +156,8 @@ p{
 .image11{
     margin-top: 20px;
     margin-left: 30px;
+    width: 40%;
+    height: 30%;
     
  }
 
