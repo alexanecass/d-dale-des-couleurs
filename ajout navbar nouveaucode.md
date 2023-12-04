@@ -37,7 +37,7 @@
     </nav>
 
     <div class="container-fluid">
-        <img class="photofond img-fluid" src="images/pexels-michel-caicedo-3713476.jpg" alt="buste page d'accueil">
+        <img class="photofond img-fluid" src="images/pexels-michel-caicedo-3713476.jpg" alt="buste dénudé grec">
     </div>
 
     <div class="container">
@@ -51,17 +51,17 @@
 
         <div class="row">
             <div class="col-md-6">
-                <img class="image4et5 img-fluid" src="images/pexels-karolina-grabowska-6769906.jpg" alt="ange">
+                <img class="image4et5 img-fluid" src="images/pexels-karolina-grabowska-6769906.jpg" alt="ange statue de platre">
             </div>
             <div class="col-md-6">
-                <img class="image4et5 img-fluid" src="images/pexels-judit-agusti-aranda-2362469.jpg" alt="bustes">
+                <img class="image4et5 img-fluid" src="images/pexels-judit-agusti-aranda-2362469.jpg" alt="visages sculptés">
             </div>
         </div>
 
         <div class="row">
             <div class="col-md-6">
                 <img class="image6et7 img-fluid" src="images/pexels-marco-carlotti-6727651.jpg"
-                    alt="moulures oeuvres">
+                    alt="moulures de plafond avec peinture">
             </div>
             <div class="col-md-6">
                 <img class="image6et7 img-fluid" src="images/pexels-wellington-silva-14506150.jpg" alt="venus de milo">
@@ -71,20 +71,20 @@
         <div class="row">
             <div class="col">
                 <img class="image8 img-fluid" src="images/pexels-valeriia-slobodeniuk-14476984.jpg"
-                    alt="statue grecque">
+                    alt="statue grecque en platre">
             </div>
         </div>
 
         <div class="row">
             <div class="col">
                 <img class="image9 img-fluid" src="images/pexels-rahime-çiftçi-12527813.jpg"
-                    alt="statues grecques tête">
+                    alt="sculpture visages grecs">
             </div>
         </div>
 
         <div class="row">
             <div class="col">
-                <img class="image10 img-fluid" src="images/pexels-ekaterina-astakhova-3705876.jpg" alt="atelier">
+                <img class="image10 img-fluid" src="images/pexels-ekaterina-astakhova-3705876.jpg" alt="atelier de scuplture">
             </div>
         </div>
 
@@ -100,7 +100,7 @@
             <div class="col-md-6">
                 <div id="textefemme">
                     <p><img class="image11 img-fluid" src="images/pexels-vladimir-konoplev-10683439.jpg"
-                            alt="femme"> Passionnée d’art et d’histoire depuis ma plus tendre enfance, j’ai décidé
+                            alt="femme artiste sculptrice"> Passionnée d’art et d’histoire depuis ma plus tendre enfance, j’ai décidé
                         d’allier ces deux aspects de ma vie pour créer ma galerie. Une exposition que j’imagine depuis
                         plusieurs années, qui se veut expressive sur la beauté du monde antique. La sculpture grecque est
                         fascinante, c’est pourquoi cette galerie s’articule autour de cet art. Les salles seront le
