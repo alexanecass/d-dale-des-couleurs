@@ -3,8 +3,10 @@
 
 .photofond{
     width: 100%;
-    text-align: center;
+    box-flex: ;
 }
+
+
 
 
 
@@ -63,7 +65,7 @@
     font-size: 20px;
     display:inline;
     color: rgba(115, 69, 38, 1);
-    margin-left: 220px;
+    margin-left: 20px;
     text-decoration: none;
 }
 
@@ -76,7 +78,9 @@
     text-decoration: none;
 }
 
-
+img{
+    max-width: 1920px;
+}
  
 
 
@@ -98,26 +102,29 @@ h1{
 
 .image4{
     width: 50%;
-    margin-left: 340px;
+    
 }
+
+
+
 
 .image5{
     width: 50%;
-    margin-left: 340px;
+    
 }
 
 .image6{
-    margin-left: 340px;
+    
     width: 50%;
 }
 
 .image7{
-    margin-left: 340px;
+    
     width: 50%;
 }
 
 .image10{
-    margin-left: 340px;
+    
     width: 50%;
 }
 
@@ -199,7 +206,7 @@ input{
     color: rgba(158, 128, 108, 1);
     font-size: 120%;
     margin-top: 40px;
-    margin-left: 10px;
+    margin-left: px;
     border :0px;
     background-color: white;
     width: 500px;
@@ -219,6 +226,8 @@ button{
     margin-top: 20px;
     cursor: pointer;
 }
+
+
 
 .grostitrecontact{
     margin-top: 30px;
@@ -273,7 +282,7 @@ button{
 
 
 
-@media only screen and (max-width: 600px) {
+@media only screen and (max-width: 800px) {
 
 
 #titre{
@@ -407,7 +416,7 @@ p{
     background-color: rgba(158, 128, 108, 0.28);
     color: #734526;
     font-family: Futura;
-    font-size: 150%;
+    font-size: 100%;
     position: bottom;
     text-align: center;
     margin-top: 20px;
@@ -420,9 +429,9 @@ a{
 }
 
 .blocjeu{
-    width:700px;  
+    width:600px;  
     margin-top: 30px; 
-    margin-left: 360px;
+    margin-left: px;
     height:250px;
     border-radius: 30px;
     font-size:100%; 
