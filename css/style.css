@@ -1,6 +1,5 @@
-
-
-
+@media screen and (min-width: 800px) {
+  
 
 .photofond{
     width: 100%;
@@ -95,38 +94,34 @@ h1{
  }
 
 
- .image2{
-    width: 35%;
-    margin-top: 30px;
-    margin-left: 450px;
-    
-    
- }
 
-.image4et5{
-    margin-left: 160px;
-    width: 79%;
+
+.image4{
+    width: 50%;
+    margin-left: 340px;
 }
 
-.image6et7{
+.image5{
+    width: 50%;
+    margin-left: 340px;
+}
+
+.image6{
     margin-left: 340px;
     width: 50%;
 }
 
-.image8{
-    margin-left: 340px;
-    width: 50%;
-}
-
-.image9{
+.image7{
     margin-left: 340px;
     width: 50%;
 }
 
 .image10{
-     margin-left: 340px;
+    margin-left: 340px;
     width: 50%;
 }
+
+
 
  h1{
     height:50px;
@@ -184,7 +179,6 @@ a{
     width:700px;  
     margin-top: 30px; 
     margin-left: 360px;
-    position: ;
     height:250px;
     border-radius: 30px;
     font-size:100%; 
@@ -245,4 +239,263 @@ button{
     position: bottom;
     text-align: center;
 }
+}
+
+
+@media screen and (min-width: 200px) {
+  .container {
+    margin: 1em 2em;
+  }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media only screen and (max-width: 600px) {
+
+
+#titre{
+    font-family: phosphate;
+    font-size: 25px;
+    display:inline;
+    color: rgba(115, 69, 38, 1);
+    margin-left: 5px;
+    text-decoration: none;
+}
+
+.photofond{
+    width: 100%;
+    text-align: center;
+}
+
+#item1{
+    font-family: Futura;
+    font-size: 10px;
+    display:inline;
+    color: rgba(115, 69, 38, 1);
+    margin-left: 20px;
+    text-decoration: none;
+}
+
+#item2{
+    font-family: Futura;
+    font-size: 10px;
+    display:inline;
+    color: rgba(115, 69, 38, 1);
+    margin-left: 10px;
+    text-decoration: none;
+}
+
+
+#item3{
+    font-family: Futura;
+    font-size: 10px;
+    display:inline;
+    color: rgba(115, 69, 38, 1);
+    margin-left: 10px;
+    text-decoration: none;
+}
+
+#item4{
+    font-family: Futura;
+    font-size: 10px;
+    display:inline;
+    color: rgba(115, 69, 38, 1);
+    margin-left: 5px;
+    text-decoration: none;
+}
+h1{
+    
+    color: #734526;
+    font-family: Futura;
+    font-size: 150%;
+    position: bottom;
+    text-align: center;
+    margin-top: 20px;
+    padding-top: 10px;
+ }
+
+
+
+
+.image4{
+    width: 50%;
+    margin-left: px;
+}
+
+.image5{
+    width: 50%;
+    margin-left: px;
+}
+
+.image6{
+    margin-left: px;
+    width: 50%;
+}
+
+.image7{
+    margin-left: px;
+    width: 50%;
+}
+
+.image10{
+    margin-left: px;
+    width: 50%;
+}
+
+
+
+ h1{
+    height:20px;
+    border:1px solid rgba(158, 128, 108, 0.28); 
+    background-color: rgba(158, 128, 108, 0.28);
+    color: #734526;
+    font-family: Futura;
+    font-size: 50%;
+    position: bottom;
+    text-align: center;
+    margin-top: 20px;
+    padding-top: 10px;
+ }
+ 
+
+p{
+    text-align : center;
+    font-family: Futura;
+    font-size: 100%;
+    color: rgba(115, 69, 38, 1);
+    display: flex;
+    width: auto; 
+    
+}
+
+
+.image11{
+    margin-top: 20px;
+    margin-left: 30px;
+    width: 40%;
+    height: 30%;
+    
+ }
+
+
+.grostitrejeu{
+    height:50px;
+    border:1px solid rgba(158, 128, 108, 0.28); 
+    background-color: rgba(158, 128, 108, 0.28);
+    color: #734526;
+    font-family: Futura;
+    font-size: 150%;
+    position: bottom;
+    text-align: center;
+    margin-top: 20px;
+    padding-top: 10px;
+
+}
+
+a{
+    text-align: center;
+}
+
+.blocjeu{
+    width:700px;  
+    margin-top: 30px; 
+    margin-left: 360px;
+    height:250px;
+    border-radius: 30px;
+    font-size:100%; 
+    border:3px solid rgba(158, 128, 108, 0.28); 
+    background-color: rgba(158, 128, 108, 0.28);
+    text-align: center;
+}
+
+#textejeu{
+    text-align : center;
+    font-family: Futura;
+    color: rgba(115, 69, 38, 1);
+    font-size: 25px;
+}
+
+input{
+    font-family: Futura;
+    color: rgba(158, 128, 108, 1);
+    font-size: 120%;
+    margin-top: 40px;
+    margin-left: 10px;
+    border :0px;
+    background-color: white;
+    width: 500px;
+    border-radius: 30px;
+
+    
+}
+
+
+button{
+    font-family: Futura;
+    color: white;
+    font-size: 120%;
+    background-color: rgba(158, 128, 108, 1);
+    border: rgba(158, 128, 108);
+    border-radius: 20px;
+    margin-top: 20px;
+    cursor: pointer;
+}
+
+.grostitrecontact{
+    margin-top: 30px;
+    color: #734526;
+    font-family: Futura;
+    font-size: 150%;
+    position: bottom;
+    text-align: center;
+
+
+}
+
+.grostitreapropos{
+    margin-top: 50px;
+    color: #734526;
+    font-family: Futura;
+    font-size: 150%;
+    position: bottom;
+    text-align: center;
+}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
