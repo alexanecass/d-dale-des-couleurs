@@ -65,7 +65,7 @@
     font-size: 20px;
     display:inline;
     color: rgba(115, 69, 38, 1);
-    margin-left: 20px;
+    margin-left: 210px;
     text-decoration: none;
 }
 
@@ -130,18 +130,7 @@ h1{
 
 
 
- h1{
-    height:50px;
-    border:1px solid rgba(158, 128, 108, 0.28); 
-    background-color: rgba(158, 128, 108, 0.28);
-    color: #734526;
-    font-family: Futura;
-    font-size: 150%;
-    position: bottom;
-    text-align: center;
-    margin-top: 20px;
-    padding-top: 10px;
- }
+
  
 
 p{
@@ -164,23 +153,12 @@ p{
  }
 
 
-.grostitrejeu{
-    height:50px;
-    border:1px solid rgba(158, 128, 108, 0.28); 
-    background-color: rgba(158, 128, 108, 0.28);
-    color: #734526;
-    font-family: Futura;
-    font-size: 150%;
-    position: bottom;
-    text-align: center;
-    margin-top: 20px;
-    padding-top: 10px;
 
-}
 
 a{
     text-align: center;
 }
+
 
 .blocjeu{
     width:700px;  
@@ -201,19 +179,23 @@ a{
     font-size: 25px;
 }
 
+.formulaire{
+    margin: auto;
+    display: flex;
+}
+
 input{
     font-family: Futura;
     color: rgba(158, 128, 108, 1);
     font-size: 120%;
     margin-top: 40px;
-    margin-left: px;
+    margin-left: 100px;
     border :0px;
     background-color: white;
     width: 500px;
     border-radius: 30px;
-
-    
 }
+
 
 
 button{
@@ -287,11 +269,12 @@ button{
 
 #titre{
     font-family: phosphate;
-    font-size: 25px;
+    font-size: 15px;
     display:inline;
     color: rgba(115, 69, 38, 1);
     margin-left: 5px;
     text-decoration: none;
+    text-align: center;
 }
 
 .photofond{
@@ -301,16 +284,16 @@ button{
 
 #item1{
     font-family: Futura;
-    font-size: 10px;
+    font-size: 5px;
     display:inline;
     color: rgba(115, 69, 38, 1);
-    margin-left: 20px;
+    margin-left: 10px;
     text-decoration: none;
 }
 
 #item2{
     font-family: Futura;
-    font-size: 10px;
+    font-size: 5px;
     display:inline;
     color: rgba(115, 69, 38, 1);
     margin-left: 10px;
@@ -320,7 +303,7 @@ button{
 
 #item3{
     font-family: Futura;
-    font-size: 10px;
+    font-size: 5px;
     display:inline;
     color: rgba(115, 69, 38, 1);
     margin-left: 10px;
@@ -329,22 +312,12 @@ button{
 
 #item4{
     font-family: Futura;
-    font-size: 10px;
+    font-size: 5px;
     display:inline;
     color: rgba(115, 69, 38, 1);
-    margin-left: 5px;
+    margin-left: 70px;
     text-decoration: none;
 }
-h1{
-    
-    color: #734526;
-    font-family: Futura;
-    font-size: 150%;
-    position: bottom;
-    text-align: center;
-    margin-top: 20px;
-    padding-top: 10px;
- }
 
 
 
@@ -396,7 +369,8 @@ p{
     font-size: 100%;
     color: rgba(115, 69, 38, 1);
     display: flex;
-    width: auto; 
+    width: 400px; 
+    margin-left: px;
     
 }
 
@@ -410,26 +384,16 @@ p{
  }
 
 
-.grostitrejeu{
-    height:50px;
-    border:1px solid rgba(158, 128, 108, 0.28); 
-    background-color: rgba(158, 128, 108, 0.28);
-    color: #734526;
-    font-family: Futura;
-    font-size: 100%;
-    position: bottom;
-    text-align: center;
-    margin-top: 20px;
-    padding-top: 10px;
 
-}
 
 a{
     text-align: center;
 }
 
+
 .blocjeu{
-    width:600px;  
+    
+    width:250px;  
     margin-top: 30px; 
     margin-left: px;
     height:250px;
@@ -441,10 +405,11 @@ a{
 }
 
 #textejeu{
-    text-align : center;
+   
     font-family: Futura;
     color: rgba(115, 69, 38, 1);
-    font-size: 25px;
+    font-size: 15px;
+
 }
 
 input{
@@ -452,10 +417,10 @@ input{
     color: rgba(158, 128, 108, 1);
     font-size: 120%;
     margin-top: 40px;
-    margin-left: 10px;
+    margin-left: px;
     border :0px;
     background-color: white;
-    width: 500px;
+    width: 200px;
     border-radius: 30px;
 
     
