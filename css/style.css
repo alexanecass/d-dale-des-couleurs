@@ -200,7 +200,7 @@ input{
 
 button{
     font-family: Futura;
-    color: black;
+    color: white;
     font-size: 120%;
     background-color: rgba(158, 128, 108, 1);
     border: rgba(158, 128, 108);
@@ -220,6 +220,28 @@ button{
     text-align: center;
 
 
+}
+
+#mail{
+    color:#734526;
+    text-decoration: none;
+}
+
+#mail:hover{
+    text-decoration: underline;
+}
+
+#tel:hover{
+    text-decoration: underline;
+}
+
+#maps{
+    color:#734526;
+    text-decoration: none;
+}
+
+#maps:hover{
+    text-decoration: underline;
 }
 
 .grostitreapropos{
@@ -429,7 +451,7 @@ input{
 
 button{
     font-family: Futura;
-    color: black;
+    color: white;
     font-size: 120%;
     background-color: rgba(158, 128, 108, 1);
     border: rgba(158, 128, 108);
@@ -447,6 +469,28 @@ button{
     text-align: center;
 
 
+}
+
+#mail{
+    color:#734526;
+    text-decoration: none;
+}
+
+#mail:hover{
+    text-decoration: underline;
+}
+
+#tel:hover{
+    text-decoration: underline;
+}
+
+#maps{
+    color:#734526;
+    text-decoration: none;
+}
+
+#maps:hover{
+    text-decoration: underline;
 }
 
 .grostitreapropos{
