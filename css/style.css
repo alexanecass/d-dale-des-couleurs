@@ -200,7 +200,7 @@ input{
 
 button{
     font-family: Futura;
-    color: white;
+    color: black;
     font-size: 120%;
     background-color: rgba(158, 128, 108, 1);
     border: rgba(158, 128, 108);
@@ -429,7 +429,7 @@ input{
 
 button{
     font-family: Futura;
-    color: white;
+    color: black;
     font-size: 120%;
     background-color: rgba(158, 128, 108, 1);
     border: rgba(158, 128, 108);
