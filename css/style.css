@@ -163,7 +163,7 @@ a{
 .blocjeu{
     width:700px;  
     margin-top: 30px; 
-    margin-left: 360px;
+    margin-left: px;
     height:250px;
     border-radius: 30px;
     font-size:100%; 
@@ -315,7 +315,7 @@ button{
     font-size: 5px;
     display:inline;
     color: rgba(115, 69, 38, 1);
-    margin-left: 70px;
+    margin-left: 40px;
     text-decoration: none;
 }
 
