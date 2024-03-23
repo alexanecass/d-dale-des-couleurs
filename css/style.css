@@ -14,7 +14,6 @@
     top: 0;
     left: 0;
     width: 100%;
-    background-color: white;
     padding: 10px 0;
     text-align: center;
     z-index: 1000;
@@ -47,7 +46,7 @@
     font-family: Futura;
     font-size: 20px;
     display:inline;
-    color: rgba(115, 69, 38, 1);
+    color: white;
     margin-left: 20px;
     text-decoration: none;
 }
@@ -56,7 +55,7 @@
     font-family: Futura;
     font-size: 20px;
     display:inline;
-    color: rgba(115, 69, 38, 1);
+    color: white;
     margin-left: 50px;
     text-decoration: none;
 }
@@ -66,7 +65,7 @@
     font-family: Futura;
     font-size: 20px;
     display:inline;
-    color: rgba(115, 69, 38, 1);
+    color: white;
     margin-left: 50px;
     text-decoration: none;
 }
@@ -75,7 +74,7 @@
     font-family: Futura;
     font-size: 20px;
     display:inline;
-    color: rgba(115, 69, 38, 1);
+    color: white;
     margin-left: 210px;
     text-decoration: none;
 }
@@ -84,7 +83,7 @@
     font-family: phosphate;
     font-size: 50px;
     display:inline;
-    color: rgba(115, 69, 38, 1);
+    color: white;
     margin-left: 100px;
     text-decoration: none;
 }
